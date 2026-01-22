@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>
-    B.Sc. in Software Engineering Student 
+    B.Sc. in Software Engineering at 
     Daffodil International University (DIU)
   </strong>
 </p>
